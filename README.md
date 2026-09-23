@@ -1,6 +1,5 @@
 # Hotel Bookings Data Analysis Project
 
-**S26-B10-Adv Data A-G11-E**
 
 This project analyzes the **Hotel Booking Demand** dataset — real booking records from a Resort Hotel and a City Hotel, covering arrivals from 2015 to 2017. The dataset was cleaned and explored to uncover patterns in booking behavior, cancellations, pricing, and guest demographics, using a combination of Python (data cleaning, transformation, and visualization) and an interactive dashboard.
 
@@ -81,6 +80,3 @@ jupyter notebook hotel_bookings_data_cleaning_eda.ipynb
 
 See [`docs/documentation.pdf`](docs/documentation.pdf) for the full write-up, including the complete data dictionary and detailed methodology notes.
 
-## 👥 Group
-
-S26-B10-Adv Data A-G11-E
